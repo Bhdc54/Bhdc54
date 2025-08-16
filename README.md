@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Brunno Henrique
 
-💻 Desenvolvedor Júnior apaixonado por tecnologia.  
+💻 Desenvolvedor Júnior.  
 Atualmente focado em **Java** e **Python** para desenvolvimento backend.
 
 ## 🚀 Tecnologias que trabalho
