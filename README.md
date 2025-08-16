@@ -1,4 +1,4 @@
-# Olá, eu sou o Brunno Henrique
+# 👋 Olá, eu sou o Brunno Henrique
 
 💻 Desenvolvedor Júnior.
 Atualmente focado em Java e Python para desenvolvimento backend.
