@@ -13,7 +13,7 @@ Banco de Dados: MySQL, Firebase, Firestore, AWS
 
 Infraestrutura & Hardware: Windows Server, Raspberry Pi
 
-Ferramentas: Git, Docker, Linux, VSCode
+Ferramentas: Git, Docker, VSCode
 
 📌 Projetos em destaque
 
